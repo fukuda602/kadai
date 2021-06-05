@@ -2,11 +2,12 @@
 
 int main(void){
 
- printf("hello\n");
+ printf("こんばんは\n");
 
   return 0;
 
 }
 
  
+
 
